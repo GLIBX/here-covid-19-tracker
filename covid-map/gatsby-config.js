@@ -7,7 +7,7 @@ module.exports = {
   siteMetadata: {
     title: `Tracking Coronavirus COVID-19`,
     description: ``,
-    author: `@zimrick`,
+    author: `@dezzyboy`,
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
@@ -30,7 +30,7 @@ module.exports = {
         background_color: `#FFFFFF`,
         theme_color: `#00AFAA`,
         display: `minimal-ui`,
-        icon: `src/images/gatsby-icon.png`, // This path is relative to the root of the site.
+        icon: `src/images/glibx-cloud-logo@4x.png`, // This path is relative to the root of the site.
       },
     },
     // this (optional) plugin enables Progressive Web App + Offline functionality
